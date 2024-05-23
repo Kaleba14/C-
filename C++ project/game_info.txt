@@ -1,0 +1,21 @@
+				
+										The Game
+
+ 				Minesweeper is a logic puzzle video game genre generally played on personal computers The game features a
+				grid of clickable tiles, with hidden "mines" (depicted as naval mines in the original game) scattered
+				troughout the board. The objective is to clear the board without detonating any mines, with help from clues
+				 				about the number of neighboring mines in each field. 
+							
+										HISTORY
+
+ 				Minesweeper was created by Microsoft in the 1990s, the game was written by Robert Donner and Curt
+					Johnson. Throughout the years many derivation have been this is one of those derivations.
+
+
+			  							Credit
+
+								1)  Abel Belayneh Girma(AK8225)
+								2)  Kaleb Dinberu Akalewold(ZN0599)
+								3)  Ruth Yared Zewdie(DM5060)
+								4)  Tebarek Awdenegest Moges(HL3691)
+								5)  Yahiwenisi Filmon Hadaro(LQ7886)

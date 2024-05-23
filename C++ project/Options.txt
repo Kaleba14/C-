@@ -1,0 +1,5 @@
+                                        1) Single Player Mode
+                                        2) Score Board
+                                        3) Player Information
+                                        4) Game Information
+                                        5) Exit
